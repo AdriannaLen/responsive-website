@@ -1,4 +1,8 @@
-# React + Vite
+# HooBank designed by https://www.oneweekwonders.com/
+
+# Technologies
+
+React + Vite, Tailwind
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
