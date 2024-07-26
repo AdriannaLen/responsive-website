@@ -1,4 +1,10 @@
-# React + Vite
+# HooBank
+
+designed by https://www.oneweekwonders.com/ Hoobank used to practice responsive designs using tailwind
+
+# Technologies
+
+React + Vite, Tailwind
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
