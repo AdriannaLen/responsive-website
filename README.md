@@ -1,4 +1,6 @@
-# HooBank designed by https://www.oneweekwonders.com/
+# HooBank
+
+designed by https://www.oneweekwonders.com/ Hoobank used to practice responsive designs using tailwind
 
 # Technologies
 
